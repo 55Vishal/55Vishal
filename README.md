@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vishal.
 - 👀 I’m interested in Coding.
-- 🌱 I’m Frontend development.
-- 💞️ I’m looking to collaborate on projects in frontend.
+- 🌱 I’m Frontend developer.
 - 📫 How to reach me @ 55.vishalmalusare@gmail.com
 
 <!---\
