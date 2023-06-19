@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vishal.
-- 👀 I’m interested in Coding.
-- 🌱 I’m Frontend developer.
-- 📫 How to reach me @ 55.vishalmalusare@gmail.com
+- 👀 I’m interested in learning the latest tech stacks.
+- 🌱 I’m a softer developer.
+- 📫 How to reach me @ 55.vishalmalusare@gmail.com.
 
 <!---\
 55Vishal/55Vishal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
