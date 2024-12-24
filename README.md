@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishal.
 - 👀 I’m interested in learning the latest tech stacks.
-- 🌱 I’m a Software Developer.
+- 🌱 I’m a Software Developer. (Frontend Developer)
 - 📫 How to reach me @ 55.vishalmalusare@gmail.com.
 
 <!---\
